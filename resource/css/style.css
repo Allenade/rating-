@@ -125,9 +125,3 @@ input[type="radio"]{
   display: none;
 }
 
-@media all and (min-width: 500px) {
-  .box-container {
-    padding: 1.9em;
-    width: 400px;
-  }
-}
